@@ -9,4 +9,10 @@ Initially it can be observed that manual tranmission cars have less fuel consump
 
 Based on the adjusted regression model that is developed in this document, **manual transmission cars have an additional autonomy of approx 2 miles per gallon, compared to automatic transmission cars**. If compared with a simple regression model of transmission type vs fuel consumption, it is a lower value. On the **simple regression model**, the expected increase in miles per gallon is **approx 7.25**.
 
+## How to use it
 
+In order to determine if there is a direct relationship between transmission mode and fuel consumption, additional variables can be incorporated in the linear regression model by just selecting them in the checkboxes. 
+
+Multi-variate analysis is then performed and visible in the charts and tables.
+
+Browse the tabs of 'Correlation' and 'Table'.
